@@ -1,5 +1,5 @@
 # Yo-Kai Watch 4++ Traduccion al español
-Juego siendo traducido por la base del juego traducido en ingles
+Juego siendo traducido desde la version traducida al ingles.
 # Como instalarlo
 Descargue la última versión desde [***releases***](https://github.com/Vitalkrilov/YW4Translation/releases/)
 
