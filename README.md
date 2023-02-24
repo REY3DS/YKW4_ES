@@ -1,7 +1,7 @@
 # Yo-Kai Watch 4++ Traduccion al español
 Juego siendo traducido desde la version traducida al ingles.
 # Como instalarlo
-Descargue la última versión desde [***releases***](https://github.com/Vitalkrilov/YW4Translation/releases/)
+Descargue la última versión desde [***releases***](https://github.com/REY3DS/asd/releases)
 
 ### Ryujinx:
 En el directorio de datos de Ryujinx (/home/{USERNAME}/.config/Ryujinx/ en Linux; C:\sers{USERNAME}\AppData\Roaming\Ryujinx
