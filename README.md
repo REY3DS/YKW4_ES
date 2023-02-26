@@ -1,5 +1,5 @@
 # Yo-Kai Watch 4++ Traduccion al español
-Juego siendo traducido desde la version traducida al ingles.
+Juego siendo traducido de manera manual desde la version traducida al ingles.
 # Como instalarlo
 Descargue la última versión desde [***releases***](https://github.com/REY3DS/asd/releases)
 
