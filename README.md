@@ -14,7 +14,7 @@ Lo más probable es que la carpeta donde necesita poner los datos sea en {...Ryu
 
 # Creditos
 - Vitaliy K. (GH: [@Vitalkrilov](https://github.com/Vitalkrilov))
-Traduccion entera del juego a ingles.
+Traduccion entera del juego a ingles. (textos)
 
 - Yo-kai Watch 4 English Translation Mod Team (check [gbatemp.net page](https://gbatemp.net/threads/wip-yo-kai-watch-4-switch-english-translation-project.580560/))
 Base del juego en ingles.
