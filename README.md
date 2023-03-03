@@ -1,5 +1,9 @@
 # Yo-Kai Watch 4++ Traduccion al español
 Juego siendo traducido de manera manual desde la version traducida al ingles.
+# Importante
+Este proyecto aún esta en proceso, si encuentras algún error o algo que se debería arreglar comentalo. [***issues***](https://github.com/REY3DS/YKW4_ES/issues)
+
+Es necesaria la actualización 2.2.0 del juego para que todo funcione sin errores.
 # Como instalarlo
 Descargue la última versión desde [***releases***](https://github.com/REY3DS/asd/releases)
 
