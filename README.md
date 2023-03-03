@@ -12,6 +12,11 @@ En el directorio de datos de Ryujinx (/home/{USERNAME}/.config/Ryujinx/ en Linux
 
 Lo más probable es que la carpeta donde necesita poner los datos sea en {...Ryujinx}/mods/contents/010086c00af7c000/
 
+### Switch
+Para atmosphere: Atmosphere/contents
+
+Para SXOS: SXOS/titles
+
 # Creditos
 - Vitaliy K. (GH: [@Vitalkrilov](https://github.com/Vitalkrilov))
 Traduccion entera del juego a ingles. (textos)
