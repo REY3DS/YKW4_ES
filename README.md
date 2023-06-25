@@ -5,7 +5,7 @@ Este proyecto aún esta en proceso, si encuentras algún error o algo que se deb
 
 Es necesaria la actualización 2.2.0 del juego para que todo funcione sin errores.
 # Como instalarlo
-Descargue la última versión desde [***releases***](https://github.com/REY3DS/asd/releases)
+Descargue la última versión desde [***releases***](https://github.com/REY3DS/YKW4_ES/releases)
 
 ### Ryujinx:
 En el directorio de datos de Ryujinx (/home/{USERNAME}/.config/Ryujinx/ en Linux; C:\sers{USERNAME}\AppData\Roaming\Ryujinx
