@@ -32,3 +32,10 @@ Para SXOS: `SXOS/titles/010086c00af7c000`
 
 - Yo-kai Watch 4 English Translation Mod Team (check [gbatemp.net page](https://gbatemp.net/threads/wip-yo-kai-watch-4-switch-english-translation-project.580560/)) - Base del juego en inglés.
 
+# PROJECT MAKE A DREAM
+Make a Dream es un servidor de discord en el que están varias de las traducciones de los juegos de Yo-kai watch al español, mangas, y fan-games hechos por la comunidad.
+Cualquier duda en el servidor, siempre contestamos.
+
+> [Discord](https://discord.gg/project-make-a-dream-846980324034347008)
+
+<img src="./images//discordmakeadream.png">
